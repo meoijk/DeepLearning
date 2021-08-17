@@ -17,3 +17,6 @@ GradientDescentRMSProp = 2
 GradientDescentMomentumRMSPropADAM = 3
 
 LevenbergMarquardt = 4
+
+### Backpropagation derivation ###
+![BackProp](https://github.com/meoijk/DeepLearning/blob/main/doc/BackpropagationDerivation.png?raw=true)
